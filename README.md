@@ -14,6 +14,10 @@
   - 21级 交通运输 1班, 2班, 3班 (周一 1-2; 周三 1-2)
   - 21级 力学创新班 土木 1班, 2班 (周一 3-4; 周三 3-4)
 
+每周作业: 
+- W2: Ch1: 16; 17; 18 (2); 19; 21; 
+- W1: Ch1: 1 (4) (5); 2 (1) (2); 4 (1); 6 (3); 8; 10 (4); 11 (6); 12 (3) (4);
+
 参考资料: 
 - [Lay_Lay_McDonald--2014--Linear_Algebra_and_Its_Applications--v5](https://math.berkeley.edu/~yonah/files/Linear%20Algebra.pdf)
 - [Lax--2007--Linear_Algebra_and_Its_Applications--v2](matematicas.unex.es/~navarro/algebralineal/lax.pdf)
