@@ -2,6 +2,7 @@
 
 仓库结构: 
 - [courseware](https://github.com/zhongyl0430/2021-Autumn_Linear_Algebra/tree/main/courseware): 上课使用课件
+- [exercise](https://github.com/zhongyl0430/2021-Autumn_Linear_Algebra/tree/main/exercise): 作业参考答案
 
 说明: 
 - 欢迎在 [Issues](https://github.com/zhongyl0430/2021-Autumn_Linear_Algebra/issues) 提出建议或者意见. 更加欢迎大家在 Issues 中讨论问题. 
