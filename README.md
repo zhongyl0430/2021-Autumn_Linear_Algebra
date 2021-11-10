@@ -16,7 +16,7 @@
   - 21级 力学创新班 土木 1班, 2班 (周一 3-4; 周三 3-4)
 
 每周作业: 
-- W8: Ch4: 11; 13; 14; 17; 18;
+- W8: Ch4: 11; 13; 14; 17; 18; 19 (1); 21 (1); 22; 23; 24; 27; 28; 
 - W7: Ch4: 1 (1); 2; 3; 5; 10;  [Ch4_addition](https://github.com/zhongyl0430/2021-Autumn_Linear_Algebra/tree/main/exercise/Ch4_addition.pdf): W7 Section; 
 - W6: Ch3: 17; 19; 22; 23; 24; 25; 26; 27; 28; 29; 31 (1); 32; 
 - W5: Ch3: 5; 8; 10; 11; 12; 13 (1); 14; 15 (1); 16; [Ch3_addition](https://github.com/zhongyl0430/2021-Autumn_Linear_Algebra/tree/main/exercise/Ch3_addition.pdf): W5 Section; 
